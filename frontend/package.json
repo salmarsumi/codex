@@ -4,13 +4,11 @@
   "private": true,
   "dependencies": {
     "react": "19.0.0",
-    "react-dom": "19.0.0",
-    "next": "15.0.0"
+    "react-dom": "19.0.0"
   },
   "scripts": {
-    "dev": "next dev",
-    "build": "next build",
-    "start": "next start",
+    "start": "echo \"start placeholder\"",
+    "build": "echo \"build placeholder\"",
     "test": "echo \"No tests configured\" && exit 0"
   }
 }

@@ -3,6 +3,6 @@
 This repository contains a basic project structure for a live streaming application.
 
 - **backend** – ASP.NET Core 9 project using minimal APIs.
-- **frontend** – Next.js 15 (React 19) application skeleton.
+ - **frontend** – React 19 application skeleton.
 
 Both projects are empty templates ready for further development.
